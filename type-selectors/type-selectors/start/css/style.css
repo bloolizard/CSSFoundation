@@ -1,0 +1,31 @@
+
+body {
+	background-color: #cadde5;
+	padding: 40px;
+}
+
+h1 {
+	color: #2980b9;
+	font-size: 40px;
+}
+
+h2 {
+	color: #e74c3c;
+}
+
+p {
+	color: white;
+	padding: 10px;
+	background-color: #4b8bc1;
+}
+
+.container {
+	width: 740px;
+	margin: auto;
+}
+
+.main-header {
+	height: 110px;
+	color: white;
+	background: royalblue;
+}
