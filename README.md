@@ -1,4 +1,4 @@
-Team Treehouse 
+#Team Treehouse#
 
-CSS Foundations CE
+CSS Foundations
 
