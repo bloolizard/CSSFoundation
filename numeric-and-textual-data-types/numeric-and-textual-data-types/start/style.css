@@ -1,0 +1,49 @@
+
+/* Numeric and Textual Values
+--------------------------------------------- */
+
+body {
+	font: normal 1.2em/1.5 sans-serif;  /* 19px */
+	padding: 2em 0;
+}
+
+div {
+	width: 700px;
+	padding: 2em;
+	margin: auto;
+	margin-top: -8em;
+	background-image: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM2GT_yXwB0UKcsHNpWoxrvRbUO2X7ywBJyEHIHvuLKj8CX_uU')
+}
+
+p {
+	color: red;
+}
+
+a {
+	color: inherit;
+}
+
+strong {
+	color: -moz-initial;
+}
+
+div:after {
+	content: "A string with \"escaped\" double quotes";
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
