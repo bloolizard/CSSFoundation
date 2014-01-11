@@ -1,0 +1,19 @@
+
+body {
+	padding: 1em 6em;
+
+}
+	
+/* Font Styles
+--------------------------------------------- */
+
+h1 {
+	font-family: monospace;
+	font-variant: small-caps;
+}
+
+p {
+	font-family: baskerville, "Times New Roman", Times, serif;
+	font-size: 1.2em;
+	font-style: italic;
+}
