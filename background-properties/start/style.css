@@ -1,0 +1,11 @@
+.box {
+	background: #E4E4E4 url('img/mike.png') no-repeat scroll center center;
+}
+
+.fixed {
+	background-attachment: fixed;
+}
+
+.local {
+	background-attachment: local;
+}
